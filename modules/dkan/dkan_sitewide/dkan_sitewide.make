@@ -1,6 +1,6 @@
 core = 7.x
 api = 2
-
+projects[acquia_connector][subdir] = contrib
 projects[admin_menu][subdir] = contrib
 projects[bueditor][subdir] = contrib
 projects[bueditor][patch][1931862] = http://drupal.org/files/dont-render-bueditor-for-plain-text-textareas.patch

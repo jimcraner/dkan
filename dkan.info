@@ -16,6 +16,7 @@ dependencies[] = rdf
 dependencies[] = taxonomy
 
 ; Contrib
+dependencies[] = acquia_connector
 dependencies[] = admin_menu
 dependencies[] = autocomplete_deluxe
 dependencies[] = bueditor
